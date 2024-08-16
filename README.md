@@ -1,7 +1,7 @@
 ## Hi there 👋
  ![](https://img.shields.io/badge/any_text-you_like-blue)
  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
-
+[![Langauges](https://github-readme-tech-stack.vercel.app/api/cards?title=Langauges&align=center&titleAlign=center&lineCount=1&hideBg=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF)
 <!--
 **babdikaarov/babdikaarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
