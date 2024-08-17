@@ -1,7 +1,0 @@
-![](/css3.svg)
-![](/go.svg)
-![](/html5.svg)
-![](/javascript.svg)
-![](/nodedotjs.svg)
-![](/typescript.svg)
-![]()
