@@ -1,8 +1,4 @@
-<div style="width: 100%;">
-  <img src="./index.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
-<!-- ## Hi there 👋
+![](./index.svg)
 
 ![](https://img.shields.io/badge/any_text-you_like-blue)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
