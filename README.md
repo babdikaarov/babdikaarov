@@ -1,12 +1,10 @@
 # Hi there my name is Beksultan
 
-<div style="width: 100%;">
-  <img src="index.svg" style="width: 100%;" alt="Click to see the source">
+<div style="width: 100%; height: 100%;">
+  <img src="index.svg" style="height: 100%; width: 100%;" alt="Click to see the source">
 </div>
 
 ## test
-
-
 
 ![](https://img.shields.io/badge/any_text-you_like-blue)
 
