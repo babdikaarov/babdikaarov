@@ -4,12 +4,16 @@
 
 </div>
 
-Welcome to my GitHub profile! While I’m still on my journey of building significant achievements, I’m excited to share some of the projects I’ve worked on so far. From contributing to [kashkaldak.edu.kg](https://kashkaldak.edu.kg) and [cool.kg](https://cool.kg), to creating an [OpenGraph](https://babdikaarov.home.kg) service in Go and making small contributions to X-schedule in open source — each project has been a step forward were built using a diverse tech stack, which you can explore [here](#my_stack). I’ve also explored various proof-of-concept projects, [Spotify API](), [Hugo](), [React Router](), and [Redux]().
+Welcome to my GitHub profile! 🚀 While I’m still on my journey of building significant achievements, I’m excited to share some of the projects I’ve worked on so far. From contributing to [kashkaldak.edu.kg](https://kashkaldak.edu.kg) and [cool.kg](https://cool.kg), to creating an [OpenGraph](https://babdikaarov.home.kg) service in Go and making small contributions to X-schedule in open source — each project has been a step forward and were built using a diverse tech stack, which you can explore [here](#my_stack). I’ve also explored various proof-of-concept as pet projects, [Hugo](https://helloitsafari.netlify.app/), [Spotify API](https://babdikaarov.netlify.app/), [React Router](https://babdikaarov1.netlify.app/), and [Redux](https://babdikaarov3.netlify.app/).💡
 
-If you’re curious to connect or collaborate, don’t hesitate to reach out on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babdikaarov) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/babdikaarov).
+If you’re curious to connect or collaborate, don’t hesitate to reach out on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babdikaarov) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/babdikaarov). 🌟
+
+<br>
+
+<br>
 
 <div id="my_stack" style="width: 100%; height: 100%;">
-  <a href="#">
+  <a href="#my_stack">
   <img src="index.svg" style="height: 100%; width: 100%;" alt="Click to see the source">
   </a>
 </div>
