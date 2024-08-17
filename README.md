@@ -28,11 +28,7 @@ I’m passionate about continuously expanding my skills and exploring new techno
 
 <div align="center">
 
-![](https://img.shields.io/badge/Python-blue)
-![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/Angular-red)
-![](https://img.shields.io/badge/Elixir-purple)
-![](https://img.shields.io/badge/Phoenix-orange)
 ![](https://img.shields.io/badge/Vue.js-brightgreen)
 ![](https://img.shields.io/badge/Nuxt.js-darkgreen)
 ![](https://img.shields.io/badge/Solid.js-blueviolet)
@@ -42,7 +38,11 @@ I’m passionate about continuously expanding my skills and exploring new techno
 ![](https://img.shields.io/badge/Redis-darkred)
 ![](https://img.shields.io/badge/Refine-yellow)
 ![](https://img.shields.io/badge/NestJS-red)
+![](https://img.shields.io/badge/Python-blue)
+![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/FastAPI-teal)
+![](https://img.shields.io/badge/Elixir-purple)
+![](https://img.shields.io/badge/Phoenix-orange)
 
 </div>
 
