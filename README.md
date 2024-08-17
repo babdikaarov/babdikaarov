@@ -1,7 +1,9 @@
 # Hi there my name is Beksultan
 
-<div style="width: 100%; height: 100%; pointer-events: none;">
+<div style="width: 100%; height: 100%;">
+  <a href="#">
   <img src="index.svg" style="height: 100%; width: 100%;" alt="Click to see the source">
+  </a>
 </div>
 
 ## test
