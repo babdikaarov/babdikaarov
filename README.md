@@ -1,6 +1,11 @@
 # Hi there my name is Beksultan
 
 <div style="width: 100%; height: 100%;">
+ <style>
+    img {
+      pointer-events: none;
+    }
+  </style>
   <img src="index.svg" style="height: 100%; width: 100%;" alt="Click to see the source">
 </div>
 
