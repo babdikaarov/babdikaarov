@@ -30,18 +30,7 @@
           border-radius: 5px;
           padding-block: 10px;
         }
-        @media (prefers-color-scheme: light) {
-          .container {
-          background: #252334;
-          }
-        .icon_container {
-          background: #252334;
 
-          }
-          h2 {
-            color: black;
-          }
-        }
 
         .icon_container {
           display: flex;
@@ -88,7 +77,18 @@
         .extend {
           grid-column: 1 / 3;
         }
-       
+        
+        @media (prefers-color-scheme: light) {
+          .container {
+          background: #252334;
+          }
+        .icon_container {
+          background: #252334;
+          }
+        h2 {
+            color: black;
+          }
+        }
       </style>
 
       <div class="body">
