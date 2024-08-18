@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there my name is Beksultan ![visitors](https://vbr.nathanchung.dev/badge?page_id=babdikaarov.babdikaarov&color=00cf00)
+# 👋 Hi there my name is Beksultan ![visitors](https://vbr.nathanchung.dev/badge?page_id=babdikaarov.babdikaarov&color=00cf00)
 
 </div>
 
