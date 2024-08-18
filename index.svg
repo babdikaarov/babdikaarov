@@ -30,12 +30,21 @@
           border-radius: 5px;
           padding-block: 10px;
         }
+        @media (prefers-color-scheme: light) {
+          .container {
+          background: #252334;
+          }
+        .icon_container {
+          background: #252334;
+
+        }
+        }
 
         .icon_container {
           display: flex;
           align-items: center;
           gap: 4px;
-          background-color: rgb(68 147 248 / 0.1);
+          background: #4493f81a;
           height: 20px;
           padding-inline: 5px;
           border-radius: 5px;
@@ -47,6 +56,10 @@
           padding-block: 0px;
           margin-top: 8px;
           line-height: 0px
+        }
+
+        h2 {
+          margin-top: 12px;
         }
 
       
