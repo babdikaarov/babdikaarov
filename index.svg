@@ -37,7 +37,10 @@
         .icon_container {
           background: #252334;
 
-        }
+          }
+          h2 {
+            color: black;
+          }
         }
 
         .icon_container {
