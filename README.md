@@ -56,12 +56,15 @@ I’m passionate about continuously expanding my skills and exploring new techno
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babdikaarov&theme=aura_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babdikaarov&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=babdikaarov&theme=aura_dark)
 
 </div>
 
 <!--
+https://quira.sh/stats
+[![babdikaarov's GitHub | Topics Over Time](https://stats.quira.sh/babdikaarov/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=babdikaarov)
+[![babdikaarov's GitHub | Stats](https://stats.quira.sh/babdikaarov/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=babdikaarov)
+[![babdikaarov's GitHub | Languages Over Time](https://stats.quira.sh/babdikaarov/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=babdikaarov)
 **babdikaarov/babdikaarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
