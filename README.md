@@ -36,6 +36,7 @@ I’m passionate about continuously expanding my skills and exploring new techno
 ![](https://img.shields.io/badge/Astro-lightblue)
 ![](https://img.shields.io/badge/Svelte-orange)
 ![](https://img.shields.io/badge/SvelteKit-red)
+![](https://img.shields.io/badge/HTMX-4476d8)
 ![](https://img.shields.io/badge/Redis-darkred)
 ![](https://img.shields.io/badge/Refine-yellow)
 ![](https://img.shields.io/badge/NestJS-red)
