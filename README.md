@@ -48,7 +48,12 @@ I’m passionate about continuously expanding my skills and exploring new techno
 
 </div>
 
+
+
 <div align="center">
+  
+## Github Stats 
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babdikaarov&theme=aura_dark)
 
