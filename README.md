@@ -55,8 +55,8 @@ I’m passionate about continuously expanding my skills and exploring new techno
 ## Github Stats 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babdikaarov&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babdikaarov&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=babdikaarov&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babdikaarov&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babdikaarov&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=babdikaarov&theme=algolia)
 
 </div>
 
