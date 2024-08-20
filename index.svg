@@ -82,11 +82,11 @@
           .container {
           background: #252334;
           }
-        .icon_container {
+          .icon_container {
           background: #252334;
           }
-        h2 {
-            color: black;
+          h2 {
+            color: ;
           }
         }
       </style>
