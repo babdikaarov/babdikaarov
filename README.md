@@ -60,6 +60,14 @@ I’m passionate about continuously expanding my skills and exploring new techno
 
 </div>
 
+<div align="center">
+
+
+## My CV
+
+![cv](https://github.com/babdikaarov/cv/blob/main/beksultan_abdikaarov_resume.jpg)
+
+</div>
 <!--
 https://quira.sh/stats
 [![babdikaarov's GitHub | Topics Over Time](https://stats.quira.sh/babdikaarov/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=babdikaarov)
